@@ -3,3 +3,7 @@
 This is my first Git project.
 
 I am learning Git step by step.
+
+## About
+
+This section was created on the feature/about branch.
