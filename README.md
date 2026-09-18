@@ -6,4 +6,4 @@ I am learning Git step by step.
 
 ## About
 
-This section was created on the feature/about branch.
+This section was created for the About feature.
