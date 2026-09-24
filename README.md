@@ -23,3 +23,5 @@ my new line about testing
 ## Login
 
 This section is for the login feature.
+
+Login supports email and password authentication.
